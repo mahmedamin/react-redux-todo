@@ -1,1 +1,1 @@
-# react-redux-todo
+CRUD operations using react with redux.
